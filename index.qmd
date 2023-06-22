@@ -1,8 +1,11 @@
 ---
 title: "mysite"
+image: <a href="https://linktr.ee/drdianaleonard"><img src="https://d1fdloi71mui9q.cloudfront.net/cZSbFFCRTq2SrbDkp2r6_x0RDu9IZf8RhNDtZ"></a> 
+about: 
+  template: jolla
 ---
 
-This is a Quarto website for educational purposes -- just playing around for now.
+This is a Quarto website for educational purposes -- just playing around for now. 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
