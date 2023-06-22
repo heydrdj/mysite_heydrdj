@@ -1,5 +1,5 @@
 ---
-title: "mysite_heydrdj"
+title: "mysite"
 ---
 
 This is a Quarto website for educational purposes -- just playing around for now.
